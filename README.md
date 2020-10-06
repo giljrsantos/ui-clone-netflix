@@ -4,6 +4,8 @@
 
 Projeto reacriando a página inicial da Netflix Browser e Netflix Mobile.
 
+No inicio da página, mostra uma serie da Netflix que esta em destaque.
+
 Nesse projeto o instrutor nos ensinou a recuperar os filmes por categoria.
     
     Originais do Netflix,
@@ -14,6 +16,7 @@ Nesse projeto o instrutor nos ensinou a recuperar os filmes por categoria.
     Terror,
     Romance,
     Documentários
+
 
 [Netflix](https://www.netflix.com/browse) com o ReackJs e CSS puro.
 
